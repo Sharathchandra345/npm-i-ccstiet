@@ -1,0 +1,15 @@
+{
+  "name": "ccstiet",
+  "version": "1.0.5",
+  "description": "Node package for the Creative Computing Society , Patiala , Punjab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CCS",
+  "license": "ISC",
+  "keywords": [
+    "ccstiet",
+    "ccs"
+  ]
+}
