@@ -12,14 +12,22 @@ npm i ccstiet
 ```
 1)create a js file
 
-2) import ccstiet by 
+2) import ccstiet by
+ ```js  
 const ccstiet = require("ccstiet");
+```
 
-3)console.log(ccstiet.hello());
+3)
+```js
+console.log(ccstiet.hello());
+```
 
-try with your first name
+try with your first name if you are a part of CCS
+
+```js
 console.log(ccstiet.firstname());
 console.log(sharath());
+```
 
 ## Requirements
 
